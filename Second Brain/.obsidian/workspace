@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "fd7b41f00b8f53f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe32df700150856",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kalman Filter.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0424e444a31ed610",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bd3d59cb352a969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5a7a81552e07d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e38338a97c73cb04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256
+  },
+  "right": {
+    "id": "8805c7ea8985bef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a79e5d8d298a0fd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6960ad66524f7857",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kalman Filter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e521075eb73f823a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.7157287597656
+  },
+  "active": "ffe32df700150856",
+  "lastOpenFiles": [
+    "Gradient Descent.md",
+    "Stock Analization and Prediction Platform.md",
+    "Evolutionary Algorithms.md",
+    "Evolutionary Logic.md",
+    "Sentiment Analysis.md",
+    "Linear Regression.md",
+    "GPT-3.md",
+    "Cost Function.md",
+    "Neural Netowrks.md",
+    "Psychology.md"
+  ]
+}
