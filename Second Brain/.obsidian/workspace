@@ -7,12 +7,8 @@
         "id": "ffe32df700150856",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Kalman Filter.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kalman Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +92,7 @@
   },
   "active": "ffe32df700150856",
   "lastOpenFiles": [
+    "Kalman Filter.md",
     "Gradient Descent.md",
     "Stock Analization and Prediction Platform.md",
     "Evolutionary Algorithms.md",
@@ -105,7 +101,6 @@
     "Linear Regression.md",
     "GPT-3.md",
     "Cost Function.md",
-    "Neural Netowrks.md",
-    "Psychology.md"
+    "Neural Netowrks.md"
   ]
 }
