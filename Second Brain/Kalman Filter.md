@@ -1,5 +1,5 @@
 # Ghist
-A Kalman filter is an algorithm that can be used to convert several *known states* with weighted probablities into an estimation of an *unkown state*. Its primary use in our context is for finding a [[Cansat Positional Solution]]
+A Kalman filter is an algorithm that can be used to convert several *known states* with weighted probablities into an estimation of an *unkown state*. Its primary use in our context is for finding a [[Cansat 2023]]
 
 # Implimentation
 ## Mathmatics

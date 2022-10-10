@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe32df700150856",
+        "id": "a852d35123cdba6b",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -90,17 +90,17 @@
     "direction": "horizontal",
     "width": 258.7157287597656
   },
-  "active": "ffe32df700150856",
+  "active": "a852d35123cdba6b",
   "lastOpenFiles": [
-    "Kalman Filter.md",
-    "Gradient Descent.md",
-    "Stock Analization and Prediction Platform.md",
-    "Evolutionary Algorithms.md",
+    "Double Integration.md",
+    "Polar Double Integrals.md",
+    "Average Value Double Integration.md",
+    "Cansat 2023.md",
+    "Areas Via 2D Integration.md",
+    "integration.md",
+    "Calculus.md",
     "Evolutionary Logic.md",
-    "Sentiment Analysis.md",
-    "Linear Regression.md",
-    "GPT-3.md",
-    "Cost Function.md",
-    "Neural Netowrks.md"
+    "Machine Learning.md",
+    "Kalman Filter.md"
   ]
 }

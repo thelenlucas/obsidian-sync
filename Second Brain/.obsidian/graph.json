@@ -5,11 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#batshit_insane_idea",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Machine Learning",
+      "color": {
+        "a": 1,
+        "rgb": 7176896
+      }
+    },
+    {
+      "query": "tag:#Calculus",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.3,
+  "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 0.737133472199968,
   "lineSizeMultiplier": 1.17359550561798,
   "collapse-forces": false,
@@ -17,6 +39,6 @@
   "repelStrength": 8.85595257170325,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.47553387039278633,
+  "scale": 0.5070637587945823,
   "close": true
 }
