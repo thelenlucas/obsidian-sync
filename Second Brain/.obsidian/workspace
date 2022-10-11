@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a646b06a6017c22",
+        "id": "dff99c98fd37d158",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "e119803b52aa6202",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cellular Fermentation.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -57,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cellular Fermentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,23 +83,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 258.7157287597656
   },
-  "active": "e119803b52aa6202",
+  "active": "dff99c98fd37d158",
   "lastOpenFiles": [
+    "Polar Double Integrals.md",
+    "Untitled.md",
     "Cellular Respiration.md",
-    "Oxidative Phosphoration.md",
-    "Electron Transport.md",
-    "Partial Derivatives.md",
+    "Double Integration.md",
+    "Average Value Double Integration.md",
+    "Cansat 2023.md",
     "Areas Via 2D Integration.md",
-    "Cost Function Backread Implimentation.md",
-    "Statistics.md",
-    "Standard Deviation.md",
-    "Tensorflow.md",
-    "Neural Networks.md"
+    "integration.md",
+    "Calculus.md",
+    "Evolutionary Logic.md"
   ]
 }
