@@ -27,18 +27,32 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#Cansat_2023",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Microbiology",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 0.737133472199968,
-  "lineSizeMultiplier": 1.17359550561798,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.00416666666667,
+  "lineSizeMultiplier": 1.82083333333333,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 8.85595257170325,
+  "centerStrength": 0.166666666666667,
+  "repelStrength": 10.1190476190476,
   "linkStrength": 1,
-  "linkDistance": 179,
-  "scale": 0.5070637587945823,
+  "linkDistance": 243,
+  "scale": 0.5070637587946177,
   "close": true
 }

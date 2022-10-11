@@ -11,4 +11,4 @@ Higher cost = Worse performance
 
 
 
-#loss #regression #machine_learning
+#machine_learning

@@ -1,4 +1,7 @@
 [
   "cm-editor-syntax-highlight-obsidian",
-  "calendar"
+  "calendar",
+  "table-editor-obsidian",
+  "dataview",
+  "obsidian-desmos"
 ]
