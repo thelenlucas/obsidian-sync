@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dff99c98fd37d158",
+        "id": "33de2bdaf61335a2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Final Resaerch Project.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Final Resaerch Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,24 +88,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 258.7157287597656
   },
-  "active": "dff99c98fd37d158",
+  "active": "33de2bdaf61335a2",
   "lastOpenFiles": [
-    "Polar Double Integrals.md",
+    "Wisconsin Fast Plant.md",
+    "Final Resaerch Project.md",
+    "Electron Transport.md",
     "Untitled.md",
+    "Machine Learning.md",
+    "Linear Regression.md",
+    "Polar Double Integrals.md",
     "Cellular Respiration.md",
     "Double Integration.md",
-    "Average Value Double Integration.md",
-    "Cansat 2023.md",
-    "Areas Via 2D Integration.md",
-    "integration.md",
-    "Calculus.md",
-    "Evolutionary Logic.md"
+    "Average Value Double Integration.md"
   ]
 }
