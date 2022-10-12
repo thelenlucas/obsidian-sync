@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "33de2bdaf61335a2",
+        "id": "9fa4cb2d66b14c85",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -89,17 +89,17 @@
     "direction": "horizontal",
     "width": 258.7157287597656
   },
-  "active": "33de2bdaf61335a2",
+  "active": "9fa4cb2d66b14c85",
   "lastOpenFiles": [
-    "Final Resaerch Project.md",
-    "Wisconsin Fast Plant.md",
-    "Electron Transport.md",
-    "Untitled.md",
-    "Machine Learning.md",
-    "Linear Regression.md",
-    "Polar Double Integrals.md",
-    "Cellular Respiration.md",
-    "Double Integration.md",
-    "Average Value Double Integration.md"
+    "Yeast.md",
+    "Cell.md",
+    "Water.md",
+    "Carbon.md",
+    "Carbon Dioxide.md",
+    "Oxygen.md",
+    "Molecular Oxygen.md",
+    "Glycolosys.md",
+    "Human.md",
+    "Glucose.md"
   ]
 }

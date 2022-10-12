@@ -1,5 +1,5 @@
 # Ghist
-Cells may process [[Pyruvate]] in the absence of [[Molecular Oxygen]]. In [[Yeast]] this results in [[Ethenol]] and [[Carbon Dioxide]]. In [[Eukariotic Cells]] like [[Human]]s, it results in [[Lactate]]. It also 
+Cells may process [[Pyruvate]] in the absence of [[Molecular Oxygen]]. In [[Yeast]] this results in [[Ethenol]] and [[Carbon Dioxide]]. In [[Eukariotic Cell]] like [[Human]]s, it results in [[Lactate]]. It also 
 
 Part of a series on #Microbiology 
 
