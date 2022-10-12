@@ -7,12 +7,8 @@
         "id": "33de2bdaf61335a2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Final Resaerch Project.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Resaerch Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +91,8 @@
   },
   "active": "33de2bdaf61335a2",
   "lastOpenFiles": [
-    "Wisconsin Fast Plant.md",
     "Final Resaerch Project.md",
+    "Wisconsin Fast Plant.md",
     "Electron Transport.md",
     "Untitled.md",
     "Machine Learning.md",
