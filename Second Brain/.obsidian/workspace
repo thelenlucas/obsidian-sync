@@ -7,8 +7,12 @@
         "id": "9fa4cb2d66b14c85",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Areas Via 2D Integration.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "8805c7ea8985bef9",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas Via 2D Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +97,15 @@
   },
   "active": "9fa4cb2d66b14c85",
   "lastOpenFiles": [
+    "Integration by parts.md",
+    "Triple Integration.md",
+    "Python.md",
     "Yeast.md",
     "Cell.md",
     "Water.md",
     "Carbon.md",
     "Carbon Dioxide.md",
     "Oxygen.md",
-    "Molecular Oxygen.md",
-    "Glycolosys.md",
-    "Human.md",
-    "Glucose.md"
+    "Molecular Oxygen.md"
   ]
 }

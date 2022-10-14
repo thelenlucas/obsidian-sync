@@ -1,0 +1,1 @@
+$$\int udv = uv - \int vdu$$

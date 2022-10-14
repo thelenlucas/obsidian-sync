@@ -17,7 +17,7 @@ right = 1;
 y=x
 y=x^2
 ```
-$$A=\int_0^1\int_{x^2}^{x}{f(x,y)}$$Here, 0 and 1 are the points where our boundary equations meet. The equivilant with a single interval would have been $$A=\int_0^1(x-x^2)dx$$
+$$A=\int_0^1\int_{x^2}^{x}{f(x,y)}dydx$$Here, 0 and 1 are the points where our boundary equations meet. The equivilant with a single interval would have been $$A=\int_0^1(x-x^2)dx$$
 ### Example 2: Area of R enclosed by $y=x^2$ and $y=x+2$
 ```desmos-graph
 left = -1;
