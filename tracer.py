@@ -59,7 +59,7 @@ def get_text(file_name):
 i = input("Enter a subject:")
 
 text = get_text("Second Brain/" + i + ".md")
-question = "What is" + i + " given the above information?"
+question = "Explain the above subject (" + i +  ") to an undergraduate-level student:"
 import os
 import openai
 

@@ -16,7 +16,7 @@ C(1,0.9,x)
 ```
 
 # Implimentation
-In simple python this would read
+In simple [[Python]] this would read
 ```python
 def loss(y_actual, y_expected, prev_y):
 	# Simple single imput implimentation

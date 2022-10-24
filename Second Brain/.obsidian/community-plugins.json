@@ -3,5 +3,9 @@
   "calendar",
   "obsidian-desmos",
   "table-editor-obsidian",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-mind-map",
+  "obsidian-spaced-repetition",
+  "note-refactor-obsidian",
+  "code-block-copy"
 ]

@@ -7,3 +7,6 @@
 Part of a series on #Calculus, #Equations
 
 Several are useful interchangably with the [[Polar Equivilence Equations]]
+
+$x=\rho\sin\phi\cos\theta$
+$y=\rho\sin\phi\sin\theta$
