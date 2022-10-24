@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa4cb2d66b14c85",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "LUCY Mission.md",
-            "mode": "source",
-            "source": false
+        "id": "728ddf76ea430275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa16e8be612b723",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff0be1be8028bc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Substitution Rule.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +46,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -41,7 +58,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,12 +66,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 256,
-    "collapsed": true
+    "width": 256
   },
   "right": {
     "id": "8805c7ea8985bef9",
@@ -70,9 +87,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LUCY Mission.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Substitution Rule.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -88,24 +105,37 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d97c9fc5df1640f8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 258.7157287597656
+    "width": 258.7157287597656,
+    "collapsed": true
   },
-  "active": "9fa4cb2d66b14c85",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ff0be1be8028bc94",
   "lastOpenFiles": [
-    "LUCY Mission.md",
-    "Areas Via 2D Integration.md",
-    "Integration by parts.md",
-    "Triple Integration.md",
-    "Python.md",
-    "Yeast.md",
-    "Cell.md",
-    "Water.md",
-    "Carbon.md",
-    "Carbon Dioxide.md"
+    "Spherical Coordinate System.md",
+    "Substitution Rule.md",
+    "Integral.md",
+    "Integration.md",
+    "Cylindrical Coordinate System.md",
+    "Polar Equivilence Equations.md",
+    "Polar Coordinate System.md",
+    "Cartesian Coordinate System.md",
+    "Untitled.md",
+    "Cansat 2023.md"
   ]
 }
