@@ -8,27 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eaa16e8be612b723",
+            "id": "ff0be1be8028bc94",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "da2f70877a6ab490",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ff0be1be8028bc94",
+            "id": "27c32a23c2d0a78d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Substitution Rule.md",
-                "mode": "preview",
+                "file": "Neural Network.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256
+    "width": 256,
+    "collapsed": true
   },
   "right": {
     "id": "8805c7ea8985bef9",
@@ -81,23 +87,6 @@
         "id": "a79e5d8d298a0fd0",
         "type": "tabs",
         "children": [
-          {
-            "id": "6960ad66524f7857",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Substitution Rule.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "e521075eb73f823a",
             "type": "leaf",
@@ -114,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,17 +113,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ff0be1be8028bc94",
+  "active": "27c32a23c2d0a78d",
   "lastOpenFiles": [
-    "Spherical Coordinate System.md",
-    "Substitution Rule.md",
-    "Integral.md",
-    "Integration.md",
-    "Cylindrical Coordinate System.md",
-    "Polar Equivilence Equations.md",
-    "Polar Coordinate System.md",
-    "Cartesian Coordinate System.md",
-    "Untitled.md",
-    "Cansat 2023.md"
+    "Neural Network.md",
+    "Linear Equation.md",
+    "Matrix.md",
+    "Cellular Respiration.md",
+    "Computational Psychology.md",
+    "Cansat 2023.md",
+    "Carbon.md",
+    "Backpropogation.md",
+    "Cellular Fermentation.md",
+    "Cell.md"
   ]
 }
