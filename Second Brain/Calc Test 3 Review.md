@@ -2,7 +2,7 @@
 1. Be able to use: 
 	1. [[Substitution Rule]]
 	2. [[Integration by parts]] 
-	3. [[Trigonometric Integration Formulas]]  
+	3. [[Tirgonometric Integration Via Pythogreans]] 
 	4. [[Half Angle Formulas]]
 2. Be able to set up and solve [[Integral]]s.
 3. Make sure you can set up and solve [[Rectangular Integrals]].

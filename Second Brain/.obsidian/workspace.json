@@ -4,60 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2bdb9f2ad6c71379",
+        "id": "2edbeb3b67ceaa95",
         "type": "tabs",
         "children": [
           {
-            "id": "f75eb37aa71be6af",
+            "id": "a715a2c4b55cdc77",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Calc Test 3 Review.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6872513242885439,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c33b871db5538eb1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d20de0bee5d20233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calc Test 3 Review.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -144,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc Test 3 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +120,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f75eb37aa71be6af",
+  "active": "a715a2c4b55cdc77",
   "lastOpenFiles": [
-    "Test.md",
+    "Artificial Intelligence.md",
+    "Computational Psychology.md",
+    "Final Resaerch Project.md",
+    "Standard Deviation.md",
     "Calc Test 3 Review.md",
     "Integration by parts.md",
-    "Jacobian.md",
-    "Substitution Rule.md",
-    "Spherical Coordinate Equations.md",
-    "Cartesian Coordinates and beyond.md",
+    "Statically-Typed.md",
+    "Planet.md",
     "Polar Equivilence Equations.md",
-    "Cardiod.md",
-    "Foubinie's Thoerem.md"
+    "Rose.md"
   ]
 }
