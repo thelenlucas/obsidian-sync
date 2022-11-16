@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2edbeb3b67ceaa95",
+        "id": "85da19c325074127",
         "type": "tabs",
         "children": [
           {
-            "id": "a715a2c4b55cdc77",
+            "id": "c0296fbd226a7e35",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,6 +16,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "3772755aca7a4807",
+        "type": "split",
+        "children": [
+          {
+            "id": "e669c13f1b1ba17e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6e1a3d6424b555b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Calc Test 4 Review.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "eb35755e72e929d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "11e59326845ab49d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Flux.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -44,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#batshit_insane_idea",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,29 +151,37 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c137c5e0780d7f5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 258.7157287597656,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a715a2c4b55cdc77",
+  "active": "c0296fbd226a7e35",
   "lastOpenFiles": [
-    "Artificial Intelligence.md",
-    "Computational Psychology.md",
-    "Final Resaerch Project.md",
-    "Standard Deviation.md",
-    "Calc Test 3 Review.md",
-    "Integration by parts.md",
-    "Statically-Typed.md",
-    "Planet.md",
-    "Polar Equivilence Equations.md",
-    "Rose.md"
+    "Calc Test 4 Review.md",
+    "Flux.md",
+    "Vector Field.md",
+    "Line Integral.md",
+    "Flow.md",
+    "Conservative.md",
+    "Cost Function Backread Implimentation.md",
+    "Obsidian-Traced GPT Instance.md",
+    "Cell.md",
+    "Eukariotic.md"
   ]
 }

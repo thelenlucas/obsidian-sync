@@ -2,5 +2,8 @@
   "baseFontSize": 20,
   "theme": "obsidian",
   "accentColor": "",
-  "cssTheme": "Cybertron"
+  "cssTheme": "Cybertron",
+  "interfaceFontFamily": "Monocraft",
+  "textFontFamily": "Monocraft",
+  "monospaceFontFamily": "Monocraft"
 }
