@@ -22,7 +22,7 @@ tags: Calculus/Test_Review
 # Important formulas
 
 *[[Line Integral]]:*
-$$\int_{S}f(x,y,z)dS=\int_{a}^{b}f(r(t)|\vec v(t)|$$
+$$\int_{S}f(x,y,z)dS=\int_{a}^{b}f(r(t)|\vec v(t)|)$$
 
 
 *[[Work]] (or [[Flow]]) across a [[Vector Field]]:*

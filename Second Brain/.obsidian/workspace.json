@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "85da19c325074127",
+        "id": "e669c13f1b1ba17e",
         "type": "tabs",
         "children": [
           {
-            "id": "c0296fbd226a7e35",
+            "id": "f6e1a3d6424b555b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calc Test 4 Review.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
-      },
-      {
-        "id": "3772755aca7a4807",
-        "type": "split",
-        "children": [
-          {
-            "id": "e669c13f1b1ba17e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f6e1a3d6424b555b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Calc Test 4 Review.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "eb35755e72e929d4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "11e59326845ab49d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Flux.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -142,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calc Test 4 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +133,7 @@
     "width": 258.7157287597656,
     "collapsed": true
   },
-  "active": "c0296fbd226a7e35",
+  "active": "f6e1a3d6424b555b",
   "lastOpenFiles": [
     "Calc Test 4 Review.md",
     "Flux.md",
