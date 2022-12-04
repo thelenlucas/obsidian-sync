@@ -11,12 +11,8 @@
             "id": "f6e1a3d6424b555b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calc Test 4 Review.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc Test 4 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
