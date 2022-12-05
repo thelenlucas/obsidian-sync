@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "tag:#CS121",
+      "query": "tag:#Computer_Science",
       "color": {
         "a": 1,
         "rgb": 13180651
@@ -88,6 +88,6 @@
   "repelStrength": 10.869140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.27727696537000385,
+  "scale": 0.7640854679068696,
   "close": true
 }

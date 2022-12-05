@@ -1,7 +1,7 @@
 # Ghist
 In the [[C Family]] and other [[Programming Language]]s, pointers are a datatype that "points to" the [[Memory Adress]] of another variable. These have several uses, but the main ones include modification of out-of-scope memory and the saving of memory across different scopes.
 
-Part of a series within #CS121
+Part of a series within #Computer_Science
 
 # The Code
 Pointer variables are denoted by the operator ```*``` ([[C Family * Operator]]) For example

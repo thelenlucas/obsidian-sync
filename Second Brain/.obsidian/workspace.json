@@ -4,18 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "e669c13f1b1ba17e",
+        "id": "caab0148559c018a",
         "type": "tabs",
         "children": [
           {
-            "id": "f6e1a3d6424b555b",
+            "id": "bc37208ef6164e4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "CS121 Final Study Notes.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.572058989716352,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.508588541078088,
+                  "repelStrength": 12.4861566278676,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.5087618855792653,
+                  "close": true
+                }
+              }
             }
           }
         ]
+      },
+      {
+        "id": "929a12a43b5e1cc5",
+        "type": "split",
+        "children": [
+          {
+            "id": "9089e6483c75b442",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c59803b036905735",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Call by Reference.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "03e694e428e7ca61",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "287a6f8d2b36c272",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CS121 Final Study Notes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -44,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#batshit_insane_idea",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS121 Final Study Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +199,17 @@
     "width": 258.7157287597656,
     "collapsed": true
   },
-  "active": "f6e1a3d6424b555b",
+  "active": "bc37208ef6164e4e",
   "lastOpenFiles": [
-    "Calc Test 4 Review.md",
-    "Flux.md",
-    "Vector Field.md",
-    "Line Integral.md",
-    "Flow.md",
-    "Conservative.md",
-    "Cost Function Backread Implimentation.md",
-    "Obsidian-Traced GPT Instance.md",
-    "Cell.md",
-    "Eukariotic.md"
+    "Call by Reference.md",
+    "Scope Rules.md",
+    "CS121 Final Study Notes.md",
+    "istream.md",
+    "C++ Files.md",
+    "C++ Strings.md",
+    "getline.md",
+    "cin.md",
+    "left.md",
+    "cin.get().md"
   ]
 }
