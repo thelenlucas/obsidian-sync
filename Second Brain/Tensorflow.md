@@ -3,4 +3,4 @@
 
 TensorFlow is a symbolic math library used for [[Neural Network]] and is best suited for dataflow programming across a range of tasks. It offers multiple abstraction levels for building and training models. It is primarily implimented in [[Python]] with a [[C++]] backend.
 
-Part of a series on #Deep_Learning and #machine_learning 
+Part of a series on #Deep_Learning and #Computer_Science/Machine_Learning 

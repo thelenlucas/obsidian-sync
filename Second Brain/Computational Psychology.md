@@ -3,4 +3,4 @@ Computational psychologists use [[computer]] concepts to attempt to gain insight
 
 It largely falls along the [[Mind-Brain Identity Theory]], due to it's inherent materialism.
 
-#Artivicial_Intelligence, #Psychology
+#Computer_Science/Machine_Learning, #Psychology

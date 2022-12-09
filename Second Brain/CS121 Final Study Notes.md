@@ -1,5 +1,5 @@
 ---
-tags: Computer_Science, Final, C++
+tags: Computer_Science, Final, Computer_Science/CPP
 ---
 
 # Topic

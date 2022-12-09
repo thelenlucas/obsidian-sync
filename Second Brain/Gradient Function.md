@@ -1,5 +1,5 @@
 ---
-tags: Calculus
+tags: Mathematics/Calculus
 ---
 # Ghist
 For any [[Differentiable]] function $f$, there exists a gradient function $\nabla f$ so that

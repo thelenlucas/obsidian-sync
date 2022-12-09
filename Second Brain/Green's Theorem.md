@@ -1,5 +1,5 @@
 ---
-tags: Calculus
+tags: Mathematics/Calculus
 ---
 # Ghist
 In it's ismplest terms, green's thoerem allows us an easier way to calculate the [[Circulation]] of a path, though it only applies to [[Vector Field]]'s that are [[Conservative]]. It states that

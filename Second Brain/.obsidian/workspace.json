@@ -6,6 +6,7 @@
       {
         "id": "caab0148559c018a",
         "type": "tabs",
+        "dimension": 47.79233381853469,
         "children": [
           {
             "id": "bc37208ef6164e4e",
@@ -13,11 +14,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CS121 Final Study Notes.md",
+                "file": "Byte Pair Encoder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -36,56 +37,40 @@
                   "repelStrength": 12.4861566278676,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.5087618855792653,
+                  "scale": 0.8531608603841098,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "9ed5ad5dc1564298",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       },
       {
-        "id": "929a12a43b5e1cc5",
-        "type": "split",
+        "id": "1b3dcc3989d6c945",
+        "type": "tabs",
+        "dimension": 52.20766618146531,
         "children": [
           {
-            "id": "9089e6483c75b442",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c59803b036905735",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Call by Reference.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "31c056988589d579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Byte Pair Encoder.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "03e694e428e7ca61",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "287a6f8d2b36c272",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CS121 Final Study Notes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS121 Final Study Notes.md",
+                "file": "Byte Pair Encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,20 +181,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.7157287597656,
-    "collapsed": true
+    "width": 258.7157287597656
   },
-  "active": "bc37208ef6164e4e",
+  "active": "31c056988589d579",
   "lastOpenFiles": [
-    "Call by Reference.md",
-    "Scope Rules.md",
-    "CS121 Final Study Notes.md",
-    "istream.md",
-    "C++ Files.md",
-    "C++ Strings.md",
-    "getline.md",
-    "cin.md",
-    "left.md",
-    "cin.get().md"
+    "Machine Learning.md",
+    "Non-Linear Regression.md",
+    "Linear Regression.md",
+    "Untitled 3.md",
+    "GPT-3.md",
+    "Pre-Training.md",
+    "Self-Supervised Learning.md",
+    "Supervised Learning.md",
+    "Unsupervised learning.md",
+    "Transformer.md"
   ]
 }

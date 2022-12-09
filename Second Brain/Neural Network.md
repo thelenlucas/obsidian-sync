@@ -2,7 +2,7 @@
 
 A tuned function approximater. A very powerful [[Machine Learning]] algorithm that has spawned many powerful applications such as [[GPT-3]].
 
-Part of a series on #machine_learning 
+Part of a series on #Computer_Science/Machine_Learning 
 
 # Explenation
 A Neural network is a construct of individual simulated neurons, that fire based of an internal state generated from the previous layer's outputs. It has a single input and output layer, and $n>0$ internal [[Hidden Layer]]s. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Neural_network_example.svg/800px-Neural_network_example.svg.png">

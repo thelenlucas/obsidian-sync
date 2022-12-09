@@ -1,5 +1,5 @@
 ---
-tags: Calculus
+tags: Mathematics/Calculus
 ---
 # Ghist
 A vector field, also known as a [[Force Field]], is a concept that allows for the construction of fields in space, based on the location in space of a point. It typically takes the form $F(n)$, where $n$ may be any number of dimensions, reprisented in space. 

@@ -1,5 +1,5 @@
 ---
-tags: Computer_Science, C++
+tags: Computer_Science, Computer_Science/CPP
 ---
 In [[C++]], fixed is a [[cout]] operator that causes floats to be printed with no exponents, and as many decimal values as [[setprecision()]] indicates.
 

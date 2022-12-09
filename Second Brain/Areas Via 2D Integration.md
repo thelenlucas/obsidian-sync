@@ -1,5 +1,5 @@
 # Ghist
-Part of a series on #Calculus 
+Part of a series on #Mathematics/Calculus 
 
 Using double [[Integration]], we can find the area of a region through doubling integrals over an area instead of a single integration. This application requires less reasoning about the functions physical properties and is easier to impliment.
 

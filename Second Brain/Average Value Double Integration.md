@@ -1,7 +1,7 @@
 # The Ghist
 We can use a doulbe integral system to find the average value of a function $f(x,y)$.
 
-Part of a series on #Calculus 
+Part of a series on #Mathematics/Calculus 
 
 # The mathmatics
 This is a simple calculation of $$f_a=\dfrac{1}{A_R}\int\int_RfdA$$

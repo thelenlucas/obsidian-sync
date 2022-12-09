@@ -1,5 +1,5 @@
 
-Part of a series on #Calculus 
+Part of a series on #Mathematics/Calculus 
 
 1. $x=r\cos\theta$ 
 2. $y=r\sin\theta$ 

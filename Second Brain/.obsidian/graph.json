@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "Machine Learning",
+      "query": "tag:#Computer_Science/Machine_Learning",
       "color": {
         "a": 1,
-        "rgb": 7176896
+        "rgb": 16639
       }
     },
     {
@@ -88,6 +88,6 @@
   "repelStrength": 10.869140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7640854679068696,
+  "scale": 0.5791791416183559,
   "close": true
 }

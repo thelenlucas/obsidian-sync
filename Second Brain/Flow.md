@@ -1,5 +1,5 @@
 ---
-tags: Calculus
+tags: Mathematics/Calculus
 ---
 # Ghist
 Flow is a measure of how well a [[Line Integral]] or a [[Circulation]] "lines up" with a [[Vector Field]]. When passed against a [[Force Field]], this becomes a measure of [[Work]] done on a object. To calulate, we take

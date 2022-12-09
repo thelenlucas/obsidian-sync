@@ -49,4 +49,4 @@ Be able to integrate over any combination of [[Triple Integration]] possiblities
 3. Linear and Nonlinear
 4. Solve for dimensions of the [[Substitution Rule]]
 
-#Calculus 
+#Mathematics/Calculus 

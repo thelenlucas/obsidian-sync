@@ -1,7 +1,7 @@
 # Ghist
 The attempt to create [[Artificial Intelligence]] via creating a symbolic language of thought and refining it through obervation and inference. Implimentation attempts include the [[Programming Language]] [[LISP]].
 
-Part of a series on #Artivicial_Intelligence 
+Part of a series on #Computer_Science/Machine_Learning 
 
 # Requirements
 In essence, there are only two things required for a symbolic language:

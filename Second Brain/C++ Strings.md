@@ -1,5 +1,5 @@
 ---
-tags: Computer_Science, C++
+tags: Computer_Science, Computer_Science/CPP
 ---
 
 In [[C++]] [[String]]s are mutable, thank god. They have several methods

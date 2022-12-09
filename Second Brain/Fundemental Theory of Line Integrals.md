@@ -1,5 +1,5 @@
 ---
-tags: Calculus
+tags: Mathematics/Calculus
 ---
 # Ghist
 In a nutshell, the Fundemental Theory of [[Line Integral]]s states that for any [[Line Integral]]:

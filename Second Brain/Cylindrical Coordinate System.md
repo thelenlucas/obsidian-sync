@@ -1,7 +1,7 @@
 # Ghist
 A [[Coordinate System]] that uses [[Polar Coordinate System]] terms and a z-axis to describe 3-D space. It is an extention of [[Polar Coordinate System]]s
 
-Part of a series on #Calculus 
+Part of a series on #Mathematics/Calculus 
 
 # Volume
 The general volume formula is:$$\int\int\int dzrdrd\theta$$

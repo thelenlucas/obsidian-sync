@@ -1,7 +1,7 @@
 # The Ghist
 Using [[Double Integration]] using polar functions.
 
-Part of a series on #Calculus 
+Part of a series on #Mathematics/Calculus 
 
 # The Mathematics
 The challenge in this secion is moving from $dxdy$ to $d\theta dR$. There isn't an easy solution to this unfortunatly. It is essentially an analouge$$dA=dxdy\rightarrow dA= drd\theta$$The area of a segment is $A=\dfrac{1}{2}\theta r^2$, so we may state $A_k = r_k \Delta r \Delta \theta$, or $$dA=rdrd\theta$$This is the founding principle of polar work in this system. Our general form is $$A=\int_\alpha^\beta\int_{r_1(\theta)}^{r_2(\theta)}rdrd\theta$$This is where [[Double Integration]] really shines, as it vastly improves over the single [[Integral]] form of previous explorations

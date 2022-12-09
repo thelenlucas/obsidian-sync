@@ -1,4 +1,4 @@
-#Calculus 
+#Mathematics/Calculus 
 
 # Cartesian Coordinates and beyond
 Are Right handed <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Right_hand_rule_cross_product.svg/1024px-Right_hand_rule_cross_product.svg.png">

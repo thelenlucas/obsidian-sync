@@ -1,7 +1,7 @@
 # The Ghist
 An extention of [[Double Integration]].
 
-Part of a series on #Calculus 
+Part of a series on #Mathematics/Calculus 
 
 # The Mathematics
 [[Foubinie's Thoerem]] holds well, thankfully.

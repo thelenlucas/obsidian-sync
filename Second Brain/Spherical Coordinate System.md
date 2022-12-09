@@ -6,7 +6,7 @@ Spherical coordinates are a [[Coordinate System]] that represent a point in spac
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/3D_Spherical.svg/1024px-3D_Spherical.svg.png">Spherical coordinates can use several [[Spherical Coordinate Equations]], to solve systems
 
-Part of a series on #Calculus 
+Part of a series on #Mathematics/Calculus 
 
 # Volume
 We can take the volume of spherical coordinates using $$\int\int\int{(\rho^2\sin\phi)} d\rho d\phi d\theta$$
