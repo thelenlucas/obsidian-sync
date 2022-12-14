@@ -6,7 +6,7 @@
       {
         "id": "caab0148559c018a",
         "type": "tabs",
-        "dimension": 47.79233381853469,
+        "dimension": 47.792333818534686,
         "children": [
           {
             "id": "bc37208ef6164e4e",
@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Byte Pair Encoder.md",
+                "file": "Embedded Rust Multicore.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -37,14 +37,14 @@
                   "repelStrength": 12.4861566278676,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.8531608603841098,
+                  "scale": 1.1447142425533534,
                   "close": true
                 }
               }
             }
           },
           {
-            "id": "9ed5ad5dc1564298",
+            "id": "e4ed574e458d57cd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -56,7 +56,7 @@
       {
         "id": "1b3dcc3989d6c945",
         "type": "tabs",
-        "dimension": 52.20766618146531,
+        "dimension": 52.207666181465314,
         "children": [
           {
             "id": "31c056988589d579",
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Byte Pair Encoder.md",
+                "file": "Embedded Rust Multicore.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Cansat_2023",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Byte Pair Encoder.md",
+                "file": "Embedded Rust Multicore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,17 +183,17 @@
     "direction": "horizontal",
     "width": 258.7157287597656
   },
-  "active": "31c056988589d579",
+  "active": "bc37208ef6164e4e",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "Non-Linear Regression.md",
-    "Linear Regression.md",
-    "Untitled 3.md",
-    "GPT-3.md",
-    "Pre-Training.md",
-    "Self-Supervised Learning.md",
-    "Supervised Learning.md",
-    "Unsupervised learning.md",
-    "Transformer.md"
+    "Embedded Rust Processor Function.md",
+    "Entry Point.md",
+    "Embedded Rust for the RP2040.md",
+    "Software Development.md",
+    "Cansat 2023.md",
+    "Borrow.md",
+    "Software Requirements.md",
+    "Rust Strings.md",
+    "Borrow Checker.md",
+    "Rust Copy.md"
   ]
 }

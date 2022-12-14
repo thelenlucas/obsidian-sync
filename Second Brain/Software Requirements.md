@@ -1,7 +1,7 @@
 # Ghist
 Several software requirements we need to carry out over the mission time.
 
-Part of #Cansat_2023 
+Part of [[Cansat 2023]]
 
 # Table
 

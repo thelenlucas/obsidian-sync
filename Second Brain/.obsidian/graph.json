@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag:#Rust",
+      "color": {
+        "a": 1,
+        "rgb": 16733194
+      }
+    },
+    {
       "query": "tag:#Computer_Science/Machine_Learning",
       "color": {
         "a": 1,
@@ -26,13 +33,6 @@
       "color": {
         "a": 1,
         "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#Microbiology",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     },
     {
@@ -50,24 +50,10 @@
       }
     },
     {
-      "query": "tag:#Biology",
-      "color": {
-        "a": 1,
-        "rgb": 2792960
-      }
-    },
-    {
       "query": "tag:#Chemestry",
       "color": {
         "a": 1,
         "rgb": 11621088
-      }
-    },
-    {
-      "query": "tag:#Cansat_2023",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
       }
     },
     {
@@ -88,6 +74,6 @@
   "repelStrength": 10.869140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5791791416183559,
+  "scale": 0.5505560070566747,
   "close": true
 }
