@@ -3,7 +3,7 @@ This is the process in which [[Cell]] turn [[Glucose]] into [[ATP]], and thus pr
 
 The entire process takes in [[Molecular Oxygen]] and exports [[Water]] and [[Carbon Dioxide]]. All other factors are completely recycled, barring [[Cellular Fermentation]]. In aoxgienic conditions.
 
-Part of a series on #Microbiology
+Part of a series on #Biology/Microbiology
 
 # The Bio wetwork
 1. [[Glycolosys]] occurs outside of the Mitochondrion, passing [[Pyruvate]] into the mitochondria, and outputing four ATP per two ATP and one glucose entered$$C_6H_{12}O_{16} +2ATP \rightarrow 2C_3H_4O_3+4ATP$$

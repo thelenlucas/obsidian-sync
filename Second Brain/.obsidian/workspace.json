@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Embedded Rust Multicore.md",
+                "file": "Forward Binary Network.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -37,7 +37,7 @@
                   "repelStrength": 12.4861566278676,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 1.1447142425533534,
+                  "scale": 0.6803201024329845,
                   "close": true
                 }
               }
@@ -64,7 +64,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Rust Multicore.md",
+                "file": "Forward Binary Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "068d2613d7c0d31d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forward Forward Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded Rust Multicore.md",
+                "file": "Forward Binary Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,17 +195,17 @@
     "direction": "horizontal",
     "width": 258.7157287597656
   },
-  "active": "bc37208ef6164e4e",
+  "active": "31c056988589d579",
   "lastOpenFiles": [
-    "Embedded Rust Processor Function.md",
-    "Entry Point.md",
-    "Embedded Rust for the RP2040.md",
-    "Software Development.md",
+    "Forward Binary Network.md",
+    "Forward Forward Algorithm.md",
+    "Restricted Boltzman Machine.md",
+    "Reinforcement Learning.md",
+    "Cansat Telemetry Packets.md",
     "Cansat 2023.md",
-    "Borrow.md",
     "Software Requirements.md",
-    "Rust Strings.md",
-    "Borrow Checker.md",
-    "Rust Copy.md"
+    "Embedded Rust Multicore.md",
+    "Embedded Rust Processor Function.md",
+    "Entry Point.md"
   ]
 }

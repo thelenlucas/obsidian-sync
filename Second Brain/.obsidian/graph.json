@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 13180651
       }
+    },
+    {
+      "query": "tag:#Biology",
+      "color": {
+        "a": 1,
+        "rgb": 453206
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 10.869140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5505560070566747,
+  "scale": 0.19511981151922672,
   "close": true
 }

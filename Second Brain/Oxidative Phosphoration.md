@@ -9,6 +9,6 @@ NADH is more effecient, supplying roughly +8 kcal/mol more energy. Additionally,
 ## Without Oxygen
 Without O$_2$, the [[Electron Transport]] proteins will remain charged, and the process will halt.
 
-Part of a series on #Microbiology.
+Part of a series on #Biology/Microbiology.
 
 ![[Pasted image 20221011131257.png]]
