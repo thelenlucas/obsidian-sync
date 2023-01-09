@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 453206
       }
+    },
+    {
+      "query": "tag:#German",
+      "color": {
+        "a": 1,
+        "rgb": 2621194
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 10.869140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.19511981151922672,
+  "scale": 0.2848742596873788,
   "close": true
 }
