@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 2621194
       }
+    },
+    {
+      "query": "tag:#Mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 10.869140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2848742596873788,
+  "scale": 0.20046602783143203,
   "close": true
 }
