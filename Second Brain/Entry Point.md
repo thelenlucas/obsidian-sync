@@ -1,5 +1,5 @@
 ---
-tags: Computer_Science, Rust
+tags: Computer_Science, Computer_Science/Rust
 ---
 
 In embedded rust, the entry point is the fucntion that the first processor starts executing when it is powered on. For the [[RP2040]], it is denoted as:

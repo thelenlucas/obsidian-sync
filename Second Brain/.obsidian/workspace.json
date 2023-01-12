@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Organismal Biology.md",
+                "file": "Charles Darwin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -51,7 +51,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f94a135b2d90c681",
@@ -59,12 +60,36 @@
         "dimension": 50.068965517241374,
         "children": [
           {
-            "id": "3e667e574b966017",
+            "id": "e218e0e1ed8a45a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organismal Biology.md",
+                "file": "Charles Darwin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcd4437561330350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mantel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edd33b335e0e1dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stratiography.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organismal Biology.md",
+                "file": "Charles Darwin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +219,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3e667e574b966017",
+  "active": "e218e0e1ed8a45a4",
   "lastOpenFiles": [
+    "Cuvier.md",
     "Organismal Biology.md",
-    "Set.md",
-    "Discrete Mathematics.md",
-    "Proposition.md",
-    "Boolean Operators.md",
-    "Intager.md",
-    "Natural Number.md",
-    "Formality (German).md",
-    "Linear Algebra.md",
-    "Linear Class One.md"
+    "Jean-Baptiste De Lamark.md",
+    "Biology.md",
+    "Biologist.md",
+    "Geologist.md",
+    "Evolution.md",
+    "James Hutton.md",
+    "Geology.md",
+    "Mantel.md"
   ]
 }

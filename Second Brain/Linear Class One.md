@@ -1,5 +1,5 @@
 ---
-tags: Mathematics/Linear_Albegra
+tags: Mathematics/Linear_Algebra
 ---
 
 # Examples

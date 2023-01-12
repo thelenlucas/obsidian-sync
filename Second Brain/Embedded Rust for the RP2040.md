@@ -1,5 +1,5 @@
 ---
-tags: Rust, Computer_Science
+tags: Computer_Science/Rust, Computer_Science
 ---
 
 # Ghist

@@ -1,5 +1,5 @@
 ---
-tags: Computer_Science, Rust
+tags: Computer_Science, Computer_Science/Rust
 ---
 
 In [[Embedded Rust for the RP2040]], we have two seperate cores at our disposal. These may run code indipendantly and concurrently, and rust gives us the tools to run such code in a [[Memory Safe]] environment. However, when using embedded development, [[Embedded Rust Processor Function]]s may create issues in communications due to  the lack of a `return` function in processor functions. This, alongside stack allocation, are the main departure from the normal workflow.

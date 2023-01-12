@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#Rust",
+      "query": "tag:#Computer_Science/Rust",
       "color": {
         "a": 1,
         "rgb": 16733194
@@ -95,6 +95,6 @@
   "repelStrength": 10.869140625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.20046602783143203,
+  "scale": 0.30273797277387626,
   "close": true
 }

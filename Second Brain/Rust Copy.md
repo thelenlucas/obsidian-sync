@@ -1,5 +1,5 @@
 ---
-tags: Computer_Science, Rust
+tags: Computer_Science, Computer_Science/Rust
 ---
 
 In [[Rust]], some types may be stored on the [[Stack]], and thus copying them is trivial, while other values do not impliment this behavior, such as [[Rust Strings]]. This is known as the *Copy* [[Trait]]. Several types impliment this by default:
