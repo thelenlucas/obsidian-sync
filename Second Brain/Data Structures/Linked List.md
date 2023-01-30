@@ -34,4 +34,12 @@ int main {
 
 # Advantages/Disadvantages
 
-Dynamically sized, and inserting elements is easy. However, there is no arbitrary acess to the linked list, meaning iteration must be performed to index it to any specific value.
+Dynamically sized, and inserting elements is easy. However, there is no arbitrary acess to the linked list, meaning iteration must be performed to index it to any specific value, and especially only linear transversal is simple to impliment.
+
+# Inserting Elements
+
+To insert after some other element, all that must be done is the creation of a new node, pathing the old node to the new node, and pathing the new node to the next node. This naturally has special cases for the first and last positions.
+
+# Deleting nodes
+
+Deleting is easy, as long as you "close the gap" in the linked list's continuity. 
