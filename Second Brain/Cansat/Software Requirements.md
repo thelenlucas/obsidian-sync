@@ -29,4 +29,3 @@ Part of [[Cansat 2023]]
 | 59            | Ground station portable                        |
 | 60            | Ground station simulation mode                 |
 | 61            | Ground station simulation pressure transmit    |
-|               |                                                |
