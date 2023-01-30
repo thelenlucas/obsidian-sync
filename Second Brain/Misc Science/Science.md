@@ -1,0 +1,1 @@
+The study of the world. Contains numberous different fields, such as [[Astronomy]], [[Mathematics]], [[Computer Science]], [[Biology]], and more.

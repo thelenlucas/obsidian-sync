@@ -1,0 +1,2 @@
+# Ghist
+Python is a [[Dynamically-Typed]] [[High-Level]], [[Interprited]] [[Programming Language]] popular in [[Data Science]] and [[Scientific Computing]] for it's large amound of support and ease of use. Python is a [[Object Oriented]] language at its core - every type is a object at heart.

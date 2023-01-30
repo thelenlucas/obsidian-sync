@@ -1,0 +1,1 @@
+Any empty characters in a [[cout]] output stream is filled by this call. By default it is a space.

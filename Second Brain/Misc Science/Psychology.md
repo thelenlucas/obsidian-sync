@@ -1,0 +1,1 @@
+Psychology is the study of behaviors and cognition.

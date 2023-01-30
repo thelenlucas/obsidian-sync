@@ -1,0 +1,1 @@
+The C language is a very old programming language in service since the 1970's. It is [[Statically-Typed]], [[High-Level]] language that still allows for low-level control over the program.

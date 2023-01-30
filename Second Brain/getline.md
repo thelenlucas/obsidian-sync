@@ -1,1 +1,0 @@
-In [[C++]], getline allows the extraction of an entire line from a [[istream]] object into a string.

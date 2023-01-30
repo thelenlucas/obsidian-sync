@@ -1,2 +1,0 @@
-# Ghist
-Programming languages are languages that allow [[Programmer]]s to control computers with a high degree of precision and power. They may be [[Statically-Typed]] or [[Dynamically-Typed]], be [[Interprited]] or [[Compiled]], or have any number of differences between them, such as [[Object Oriented]] support.

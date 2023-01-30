@@ -1,1 +1,0 @@
-The C Family are several classic [[Statically-Typed]] [[Compiled]] [[Programming Language]]s. It consists of the [[C Language]], [[C++]], and [[C#]].
