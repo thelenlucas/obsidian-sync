@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"5de1cec83372d7a7","x":-170,"y":-257,"width":250,"height":60,"type":"text","text":"Source Text"},
+		{"id":"93048636bcb67d7c","x":-170,"y":-112,"width":250,"height":60,"type":"text","text":"Preprocessing"},
+		{"id":"2eb29a881dfc8368","x":-192,"y":214,"width":294,"height":75,"type":"text","text":"Scentence Embeddings Database"},
+		{"id":"6534336dccbfb1e0","x":287,"y":60,"width":250,"height":60,"type":"text","text":"User Query"},
+		{"id":"c86aebf37d6060f0","x":-45,"y":60,"width":250,"height":60,"type":"text","text":"Embeddings Model"},
+		{"id":"2942228a1bc27e65","x":265,"y":222,"width":250,"height":60,"type":"text","text":"Embedded User Query"},
+		{"id":"7d4ec04f390866df","x":63,"y":319,"width":250,"height":85,"type":"text","text":"Database Search (Similarity)"},
+		{"id":"35c5076900303fe7","x":63,"y":499,"width":250,"height":90,"type":"text","text":"Davinci Prompt From Similar Scentences and Question"}
+	],
+	"edges":[
+		{"id":"1ab9d5156885718d","fromNode":"5de1cec83372d7a7","fromSide":"bottom","toNode":"93048636bcb67d7c","toSide":"top"},
+		{"id":"db84e64cc6e35eff","fromNode":"93048636bcb67d7c","fromSide":"bottom","toNode":"c86aebf37d6060f0","toSide":"top"},
+		{"id":"43d78252a394713b","fromNode":"c86aebf37d6060f0","fromSide":"bottom","toNode":"2eb29a881dfc8368","toSide":"top"},
+		{"id":"13ea57d0ab94e2bb","fromNode":"6534336dccbfb1e0","fromSide":"top","toNode":"c86aebf37d6060f0","toSide":"top"},
+		{"id":"843d7a26ccefe077","fromNode":"c86aebf37d6060f0","fromSide":"bottom","toNode":"2942228a1bc27e65","toSide":"top"},
+		{"id":"30a7cda0750a6228","fromNode":"2eb29a881dfc8368","fromSide":"bottom","toNode":"7d4ec04f390866df","toSide":"left"},
+		{"id":"0ce9e05118109bb1","fromNode":"2942228a1bc27e65","fromSide":"bottom","toNode":"7d4ec04f390866df","toSide":"right"},
+		{"id":"cc983d174d5938c1","fromNode":"7d4ec04f390866df","fromSide":"bottom","toNode":"35c5076900303fe7","toSide":"top"}
+	]
+}
