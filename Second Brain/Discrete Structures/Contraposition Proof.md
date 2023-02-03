@@ -4,7 +4,7 @@ tags: Mathematics/Discrete_Structures
 
 # Ghist
 
-One of the many forms of [[Proof]], the contrapositive strategy attemts to establish a [[Proposition]] via [[De Morgans]] theorem. That is, to prove $P \rightarrow Q$ via $Q' \rightarrow P'$.
+One of the many forms of [[Proof]], the contrapositive strategy attemts to establish a [[Propositional Logic]] via [[De Morgans]] theorem. That is, to prove $P \rightarrow Q$ via $Q' \rightarrow P'$.
 
 # Example
 
