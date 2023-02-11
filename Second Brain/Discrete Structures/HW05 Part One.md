@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+[[Discrete Homework]] ^AWWTIBVn
+
 
 # Embedded files
 b73817023ca9e302378d406764ceb73d0a92437e: [[Pasted Image 20230205154315_329.png]]
@@ -124000,27 +124002,27 @@ e31117ba6c42e6f1d8ce74c09db1c3961b0ad467: [[Pasted Image 20230206143556_046.png]
 			]
 		},
 		{
-			"id": "KjyKY0fAJhO4T6mUOp-zJ",
 			"type": "freedraw",
-			"x": -615.8369566435877,
-			"y": 953.2289314179411,
-			"width": 6.9439697265625,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 5,
+			"versionNonce": 883494766,
+			"isDeleted": false,
+			"id": "KjyKY0fAJhO4T6mUOp-zJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -615.8369566435877,
+			"y": 953.2289314179411,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6.9439697265625,
+			"height": 0,
+			"seed": 1278374638,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 1278374638,
-			"version": 5,
-			"versionNonce": 883494766,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1675717072735,
 			"link": null,
 			"locked": false,
@@ -124038,12 +124040,44 @@ e31117ba6c42e6f1d8ce74c09db1c3961b0ad467: [[Pasted Image 20230206143556_046.png]
 					0
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-6.9439697265625,
-				0
-			]
+			"pressures": []
+		},
+		{
+			"type": "text",
+			"version": 1,
+			"versionNonce": 301713340,
+			"isDeleted": false,
+			"id": "AWWTIBVn",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2606.956646584994,
+			"y": 2182.6125526337614,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 246,
+			"height": 26,
+			"seed": 36715,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1676150073512,
+			"link": "[[Discrete Homework]]",
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "📍[[Discrete Homework]]",
+			"rawText": "[[Discrete Homework]]",
+			"baseline": 19,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "📍[[Discrete Homework]]"
 		}
 	],
 	"appState": {
@@ -124061,8 +124095,8 @@ e31117ba6c42e6f1d8ce74c09db1c3961b0ad467: [[Pasted Image 20230206143556_046.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3460.129254006869,
-		"scrollY": 392.6910972685823,
+		"scrollX": 2990.237896584994,
+		"scrollY": 1879.6530723662386,
 		"zoom": {
 			"value": 0.1
 		},
