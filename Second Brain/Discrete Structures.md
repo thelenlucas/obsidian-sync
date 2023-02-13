@@ -1,1 +1,1 @@
-A class on [[Discrete Mathematics]]. 
+A class on [[Discrete Mathematics]].

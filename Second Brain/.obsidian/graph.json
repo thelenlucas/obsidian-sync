@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:Excalidraw, path:\"Linear Algebra\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -95,6 +95,6 @@
   "repelStrength": 9.04850330535542,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.20686839018033681,
+  "scale": 0.47358419385519623,
   "close": true
 }

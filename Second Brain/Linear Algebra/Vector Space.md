@@ -28,3 +28,29 @@ A [[Vector Space]] can have a sub-set of another vector space. If it qualifies, 
 1. The [[Zero Vector]] of $V$ is in $H$
 2. For every $u$ and $v$ in $H$, $u+v$ is in $H$ (Closed under vector addition)
 3. For each $u$ in $H$ and each scalar value $c$, $cu$ is in $H$ ([[Closure Under Multiplication]])
+
+# Vector Combinations
+
+All vectors in a space may be represented as [[Vector Span]] [[Linear Combination]]s. That is, a vector $v$ in space $V$ may be represented$$v=c_{1}v_{1}+c_{2}v_{2}+...+c_{k}v_{k}$$This means that we can write equation systems as linear combinations of vectors. Special cases exist when:
+
+1. Only one vector is included, then only $cv$ vectors may be created
+2. Vectors are multiples of one another
+
+This indicates the [[Linearrly Indipendant]] or [[Linearly Dependant]] nature of the space
+
+## Examples
+### Example one
+![[Excali2]]![[Excalidrawthing]]Note that in this second case, the no solution indicates that the [[Vector Span]] is reduced.
+
+
+### Example Two
+
+![[Vector Space 2023-02-13 11.58.13.excalidraw]]
+
+Here, $S$ spans $R^{2}$. A non-zero determimant implies a unique solution, as implied by [[Cramer's Rule]].
+
+### Example Three
+
+![[Vector Space 2023-02-13 12.05.16.excalidraw]]
+
+### Example Three
