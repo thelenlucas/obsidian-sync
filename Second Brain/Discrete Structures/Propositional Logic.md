@@ -4,7 +4,7 @@ tags: Mathematics/Discrete_Structures, Computer_Science
 
 # Ghist
 
-A proposition is a [[Logic]]al statment that can be either true or false. It must be true or false and no other values. It's used extensively as a component of [[Computer Science]] and [[Computer Engineering]].
+A proposition is a [[Logic]]al statment that can be either true or false. It must be true or false and no other values. It's used extensively as a component of [[Discrete Mathematics]]
 
 Compound propositions may be constructed with [[Boolean Operators]]. For example, a porposition could be "This flower is blue **and** has a stem".
 

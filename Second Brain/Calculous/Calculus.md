@@ -1,3 +1,3 @@
-A subset of [[Mathematics]] focused around using the [[Integral]] and [[Derivative]] to solve problems.
+A subset of math focused around using the [[Integral]] and [[Derivative]] to solve problems.
 
 #Mathematics/Calculus

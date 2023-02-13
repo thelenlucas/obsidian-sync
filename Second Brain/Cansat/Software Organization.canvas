@@ -4,12 +4,12 @@
 		{"id":"540a229356218007","x":-840,"y":-620,"width":654,"height":835,"type":"file","file":"Cansat/Mision Outline.md"},
 		{"id":"0fc3eddde7508745","x":1260,"y":-990,"width":122,"height":50,"type":"text","text":"Core Two"},
 		{"id":"f1308f8111495ed5","x":-253,"y":-1871,"width":400,"height":881,"type":"file","file":"Cansat/Kalman Filter.md"},
-		{"id":"14069dc5a15664fc","x":1731,"y":-1168,"width":985,"height":721,"type":"file","file":"Cansat/Cansat Telemetry Packets.md"},
 		{"id":"3423bf6fa234ab61","x":1382,"y":-635,"width":250,"height":60,"type":"text","text":"Packet Assembly System"},
-		{"id":"0bec54cbb0c2ee2e","x":597,"y":-629,"width":98,"height":54,"type":"text","text":"Core Two"},
+		{"id":"0bec54cbb0c2ee2e","x":597,"y":-629,"width":413,"height":118,"type":"text","text":"Core Two"},
 		{"id":"8243b25828bb9a4b","x":829,"y":-349,"width":181,"height":69,"type":"text","text":"External Sensors"},
 		{"id":"6c5ea2dfebb44f1f","x":243,"y":-87,"width":138,"height":50,"type":"text","text":"Control Servos"},
-		{"id":"80996abd0d77914d","x":14,"y":-766,"width":133,"height":60,"type":"text","text":"State Manager"}
+		{"id":"80996abd0d77914d","x":14,"y":-766,"width":133,"height":60,"type":"text","text":"State Manager"},
+		{"id":"14069dc5a15664fc","x":1731,"y":-1168,"width":985,"height":721,"type":"file","file":"Cansat/Cansat Telemetry Packets.md"}
 	],
 	"edges":[
 		{"id":"f708c2a8917923ea","fromNode":"f1308f8111495ed5","fromSide":"bottom","toNode":"0fcebc3c63330c24","toSide":"left","label":"Positional Estimation"},

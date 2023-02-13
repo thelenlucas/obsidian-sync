@@ -1,4 +1,4 @@
-Calling by reference in [[C++]] is a tecnique that allows ofr the breaking of [[Scope Rules]]. When a value is passed into a [[Function]] as 
+Calling by reference in [[C++]] is a tecnique that allows ofr the breaking of [[Scope Rules]]. When a value is passed into a p[[Computer Science Theory/Function]] as 
 ```C++
 void add(float &x, float &y) {
 	//...

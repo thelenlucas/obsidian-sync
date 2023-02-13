@@ -2,7 +2,7 @@
 tags: Mathematics/Calculus
 ---
 # Ghist
-Sometimes, we may wish to determine the value of a function over a set of parameters in [[3-D Space]], in order to tdo this, we may performe [[Integration]] over a [[Parametric Equation]] set for a given function. For a paramaterization $r(t)$, we evaluate this as $$\int_{a}^{b}f(r_{x}(t), r_{y}(t),r_{z}(t))\cdot|\vec v(t)|dt$$
+Sometimes, we may wish to determine the value of a function over a set of parameters in 3D Space, in order to tdo this, we may performe [[Integration]] over a [[Parametric Equation]] set for a given function. For a paramaterization $r(t)$, we evaluate this as $$\int_{a}^{b}f(r_{x}(t), r_{y}(t),r_{z}(t))\cdot|\vec v(t)|dt$$
 # Properties
 Line integrals may be added from each other on continuous flows. $$\int_{C}=\int_{C_{0}}+\int_{C_{1}}$$
 

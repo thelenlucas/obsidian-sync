@@ -1,1 +1,1 @@
-Computer [[Science]] is the study of [[computer]]s, and their runction. It is closely related with [[Mathematics]] and [[Data Science]].
+Computer Science is the study of [[computer]]s, and their runction. It is closely related with [[Mathematics]] and [[Data Science]].

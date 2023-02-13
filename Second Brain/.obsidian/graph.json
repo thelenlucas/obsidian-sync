@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "-path:Excalidraw, path:\"Linear Algebra\"",
+  "search": "-path:\"Homework Archive\" -path:Excalidraw",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -15,17 +15,17 @@
       }
     },
     {
+      "query": "tag:#Computer_Science/Machine_Learning ",
+      "color": {
+        "a": 1,
+        "rgb": 16639
+      }
+    },
+    {
       "query": "tag:#Computer_Science/Rust",
       "color": {
         "a": 1,
         "rgb": 16733194
-      }
-    },
-    {
-      "query": "tag:#Computer_Science/Machine_Learning",
-      "color": {
-        "a": 1,
-        "rgb": 16639
       }
     },
     {
@@ -88,13 +88,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.54657951422417,
-  "lineSizeMultiplier": 1.05903587610488,
+  "nodeSizeMultiplier": 1.52916666666667,
+  "lineSizeMultiplier": 1.35052083333333,
   "collapse-forces": false,
-  "centerStrength": 0.252766842457105,
-  "repelStrength": 9.04850330535542,
+  "centerStrength": 0.171875,
+  "repelStrength": 9.375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.47358419385519623,
+  "scale": 0.16348370567222312,
   "close": true
 }

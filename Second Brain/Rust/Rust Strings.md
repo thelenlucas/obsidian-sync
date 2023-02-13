@@ -36,4 +36,4 @@ fn take_owner(something: String) {
 }
 ```
 
-Would throw a compile-time error, as `s` is no longer valid, having its assosiated heap space freed at the end of `take_owner()`. This can be avoided by having a [[Function]] process and then return a value, but it's easier to use Rust's [[Borrow]] system instead.
+Would throw a compile-time error, as `s` is no longer valid, having its assosiated heap space freed at the end of `take_owner()`. This can be avoided by having a [[Computer Science Theory/Function]] process and then return a value, but it's easier to use Rust's [[Borrow]] system instead.
