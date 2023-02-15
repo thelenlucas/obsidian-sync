@@ -6,6 +6,8 @@ tags: Mathematics/Discrete_Structures
 
 In [[Discrete Mathematics]], many of our proofs can be discribed in a series of direct connections. We may, for example wish to describe $\text{for all } x(P(x)\rightarrow Q(x))$. To create a direct proof, we first create the structure, then fill in the details.
 
+To prove a theorem in this manner, we simply assume that $P\rightarrow Q$, and attempt to prove that that is the case.
+
 # Example
 
 Prove: For any intiger $n$ if $n$ is even, then $n^2$ is even.

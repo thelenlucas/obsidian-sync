@@ -6,6 +6,8 @@ tags: Mathematics/Discrete_Structures
 
 One of the common [[Proof]] forms. The essentiality of this form is to prove that $P'\rightarrow Q$ is false, or it leads to a contradiction. If this is the case, $(P')'$, or $P$ is a [[Tautology]], and is thus true.
 
+In other words, if we wish to prove $$P\rightarrow Q$$We may say prove by contradiction by attempting to show that $$P\wedge Q'$$is a contradiction. Thus $$(P\wedge Q' \rightarrow 0) \rightarrow (P\rightarrow Q)$$
+
 # Example
 
 Prove that $\sqrt 2$ is irrational:

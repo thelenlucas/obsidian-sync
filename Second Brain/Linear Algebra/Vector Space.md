@@ -54,3 +54,5 @@ Here, $S$ spans $R^{2}$. A non-zero determimant implies a unique solution, as im
 ![[Vector Space 2023-02-13 12.05.16.excalidraw]]
 
 ### Example Three
+
+![[Vector Space 2023-02-13 12.09.31.excalidraw]]

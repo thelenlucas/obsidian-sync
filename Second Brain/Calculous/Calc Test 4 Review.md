@@ -1,5 +1,5 @@
 ---
-tags: Mathematics/Calculus/Test_Review
+tags: Test_Review
 ---
 
 # Sections

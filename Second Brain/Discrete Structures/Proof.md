@@ -11,9 +11,7 @@ In [[Discrete Mathematics]], proofs help us determine that certain facts about t
 3. [[Contradictive Proof]]s
 4. [[Contraposition Proof]]s
 
----
-tags: Mathematics/Discrete_Structures
----
+Serendipity also exists, but cannot be relied upon.
 
 # Ghist
 
