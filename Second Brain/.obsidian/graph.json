@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#Computer_Science/Machine_Learning ",
+      "query": "tag:#Mathematics/Discrete_Structures",
       "color": {
         "a": 1,
         "rgb": 16639
@@ -95,6 +95,6 @@
   "repelStrength": 9.375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.12091488188188086,
+  "scale": 0.04334533384858959,
   "close": true
 }
