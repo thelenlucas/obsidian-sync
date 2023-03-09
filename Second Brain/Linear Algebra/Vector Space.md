@@ -4,7 +4,7 @@ tags: Mathematics/Linear_Algebra
 
 # Ghist
 
-In [[Linear Algebra]], a Vector space is a [[Set]] for which it's components can act as [[Vector]]s. 
+In [[Linear Algebra]], a Vector space is a [[Set]] for which it's components can act as [[Vector]]s. These can even include [[Matrix]]s in a [[Matrix Vector Space]].
 
 # Definition
 
@@ -23,7 +23,7 @@ A vector space is a non-empty [[Set]] of values for which several axioms hold tr
 
 # Subspaces
 
-A [[Vector Space]] can have a sub-set of another vector space. If it qualifies, it is thus called a [[Vector Subspace]]. Subspaces must qualify in several axioms, for the subspace $H$ of $V$:
+A [[Vector Space]] can have a #sub-set of another vector space. If it qualifies, it is thus called a [[Vector Subspace]]. Subspaces must qualify in several axioms, for the subspace $H$ of $V$:
 
 1. The [[Zero Vector]] of $V$ is in $H$
 2. For every $u$ and $v$ in $H$, $u+v$ is in $H$ (Closed under vector addition)
