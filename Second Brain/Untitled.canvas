@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"b80417b09772f9f7","x":-38,"y":-290,"width":269,"height":69,"type":"text","text":"Feature Extraction Network"},
+		{"id":"55bdab2b95bfd557","x":-28,"y":-83,"width":250,"height":60,"type":"text","text":"Negative Generation Network"},
+		{"id":"cf5916a954fbe4b9","x":-379,"y":-83,"width":250,"height":60,"type":"text","text":"Classification Dataset"},
+		{"id":"3cbfcfadebb8d21a","x":438,"y":-182,"width":169,"height":60,"type":"text","text":"Linear Classifier"},
+		{"id":"ab396ccb17c7de4d","x":-103,"y":-670,"width":400,"height":203,"type":"file","file":"Forward-Forward Network.md"}
+	],
+	"edges":[
+		{"id":"7754cbabe7b5c8a2","fromNode":"b80417b09772f9f7","fromSide":"right","toNode":"3cbfcfadebb8d21a","toSide":"top","label":"Layer Activations"},
+		{"id":"5924dbd5f50c339a","fromNode":"3cbfcfadebb8d21a","fromSide":"bottom","toNode":"55bdab2b95bfd557","toSide":"right","label":"Bad Predictions as positive data"},
+		{"id":"4bd16d3b267ae334","fromNode":"cf5916a954fbe4b9","fromSide":"top","toNode":"b80417b09772f9f7","toSide":"left","label":"Positive Examples"},
+		{"id":"9c703d19b7abb3dd","fromNode":"cf5916a954fbe4b9","fromSide":"bottom","toNode":"55bdab2b95bfd557","toSide":"bottom","label":"Negative Examples"},
+		{"id":"a9d0a332867c6bd6","fromNode":"55bdab2b95bfd557","fromSide":"top","toNode":"b80417b09772f9f7","toSide":"bottom","label":"Negative Examples"}
+	]
+}
