@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"Homework Archive\" -path:Excalidraw",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#batshit_insane_idea",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Mathematics/Discrete_Structures",
+      "color": {
+        "a": 1,
+        "rgb": 16639
+      }
+    },
+    {
+      "query": "tag:#Computer_Science/Rust",
+      "color": {
+        "a": 1,
+        "rgb": 16733194
+      }
+    },
+    {
+      "query": "tag:#Calculus",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Artivicial_Intelligence",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#astronomy",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#Chemestry",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Computer_Science",
+      "color": {
+        "a": 1,
+        "rgb": 13180651
+      }
+    },
+    {
+      "query": "tag:#Biology",
+      "color": {
+        "a": 1,
+        "rgb": 453206
+      }
+    },
+    {
+      "query": "tag:#German",
+      "color": {
+        "a": 1,
+        "rgb": 2621194
+      }
+    },
+    {
+      "query": "tag:#Mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.52916666666667,
+  "lineSizeMultiplier": 1.35052083333333,
+  "collapse-forces": false,
+  "centerStrength": 0.171875,
+  "repelStrength": 9.375,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.22129205431164156,
+  "close": true
+}
