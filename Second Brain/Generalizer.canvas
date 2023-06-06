@@ -1,10 +1,24 @@
 {
 	"nodes":[
+<<<<<<< Updated upstream
 		{"type":"file","file":"Combinational Agent.md","id":"d823422cf976d097","x":760,"y":-940,"width":400,"height":460},
 		{"id":"c96e6da71e76f2f2","x":1540,"y":-660,"width":200,"height":60,"type":"text","text":"Learner Agent Pool"},
 		{"id":"c07407a87290116d","x":1415,"y":-1000,"width":250,"height":60,"type":"text","text":"Teacher Agent"},
 		{"id":"cb6a59dafab02a1d","x":1441,"y":-860,"width":199,"height":60,"type":"text","text":"Previous Best Performer"},
 		{"id":"a2847dabc2a0ed8a","x":1760,"y":-860,"width":250,"height":60,"type":"text","text":"Genetic Algorithm"}
+=======
+		{"type":"text","text":"Neural Network (Generic)","id":"835388f34d7d21b8","x":-200,"y":-600,"width":250,"height":60},
+		{"type":"text","text":"","id":"5b6cf77ae24cb680","x":-200,"y":-198,"width":250,"height":60},
+		{"type":"text","text":"...","id":"36814fa383de725c","x":840,"y":-228,"width":50,"height":60},
+		{"type":"text","text":"Desired Training Task","id":"dbed3df89306df8e","x":775,"y":-60,"width":180,"height":60},
+		{"type":"text","text":"Network Shape","id":"6c65a673a2dfd6eb","x":600,"y":-228,"width":175,"height":60},
+		{"type":"text","text":"Network Shape","id":"3fdc0f352bb70065","x":955,"y":-228,"width":175,"height":60},
+		{"type":"text","text":"Genetic Algorithm Executor","id":"301a7ffbde00c780","x":740,"y":-490,"width":243,"height":85},
+		{"type":"text","text":"Desired Task","id":"0a841b126bdb8b29","x":1633,"y":120,"width":121,"height":60},
+		{"type":"text","text":"SCNT","id":"08799fdb868d717d","x":1660,"y":-90,"width":67,"height":60},
+		{"type":"text","text":"SCNT","id":"b204a28a2d2cd531","x":1660,"y":-380,"width":67,"height":60},
+		{"type":"text","text":"Self-Contained Network Trainer\nInputs: Hyperparamaters, Initial Network, Training Task\nOutputs: Trained Network, Optimized Function","id":"f60aaffa8cedf204","x":1020,"y":-540,"width":613,"height":140}
+>>>>>>> Stashed changes
 	],
 	"edges":[
 		{"id":"1b6975b3f2f623e6","fromNode":"d823422cf976d097","fromSide":"right","toNode":"c96e6da71e76f2f2","toSide":"left"},
